@@ -1,2 +1,3 @@
-# the-zante-edit
-A handpicked guide to Zakynthos — beaches, food, experiences and local recommendations.
+# The Zante Edit
+
+Handpicked Zakynthos guest guide. Includes noindex/noarchive directives.
