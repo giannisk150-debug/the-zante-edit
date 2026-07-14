@@ -2,7 +2,6 @@
 
 Handpicked Zakynthos guest guide. Includes noindex/noarchive directives.
 
-## v2 additions
-- Added Schoinari, Climati Beach, Plakaki and Korakonisi. Gerakas was already included.
-- Added Red Apple, Prasino Psari, Stathmos, Movida, San Marco and Grace.
-- Added a dedicated Traditional Souvlaki category with Mythos, Thymari, Pyra and To Steki tis Gefsis.
+## v5 change
+- Carissimo remains first in the restaurant list.
+- Removed the 'Our First Pick' label and special highlight styling.
